@@ -26,17 +26,21 @@ All logic is **explainable heuristics** (no external feeds) to keep the MVP fast
 
 ## 🖥️ Quick Start
 ```bash
-# 1) (Recommended) Create a virtual environment
+# 1) Clone the repository and change the directory
+git clone https://github.com/geetha-krishna-m/ScamShield-Seniors.git
+cd ScamShield-Seniors
+
+# 2) (Recommended) Create a virtual environment
 python -m venv .venv
 # macOS/Linux
 source .venv/bin/activate
 # Windows
 # .venv\Scripts\activate
 
-# 2) Install dependencies
+# 3) Install dependencies
 pip install -r requirements.txt
 
-# 3) Run the Streamlit app
+# 4) Run the Streamlit app
 streamlit run streamlit_app.py
 ```
 
