@@ -2,7 +2,6 @@
 # ScamShield Seniors — Simple Scam & URL Triage for Older Adults
 
 **One-screen, accessible tool** that explains *why* a message/URL is risky and **what to do next**.
-Built for open-ended hackathons with security-focused judges.
 
 ## 🎯 Problem
 Scams via SMS/WhatsApp/email disproportionately impact older adults. Triage is confusing and time-sensitive, leading to financial loss and stress.
