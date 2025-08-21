@@ -13,6 +13,8 @@ Paste a message or link to get:
 - **Plain-English reasons** (e.g., urgent tone, odd domain, `@` in URL, punycode)
 - **Action steps** (what to do next) and **reporting resources**
 - Optional **CSV batch** triage for caregivers/analysts
+- Optional ML extension: combines heuristics with a pre-trained phishing model for improved accuracy.
+
 
 All logic is **explainable heuristics** (no external feeds) to keep the MVP fast and transparent.
 
